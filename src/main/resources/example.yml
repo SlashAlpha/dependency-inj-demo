@@ -1,0 +1,36 @@
+name: JÖN
+
+names:
+  -JÖN
+  -IGMAR
+  -SVEN
+
+pound_sign: "a"
+
+
+book:
+  author: Buck
+  publisher: TreeSmasher
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "this is its quote"
+
+colon_string: "my courses: one two three"
+
+include_new_line:
+  asdf asdf asdf
+  asdf asdf asdf
+  asdf ea adfre
+
+ignore: >
+  this is
+  just one long
+  string
+
